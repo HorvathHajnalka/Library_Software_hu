@@ -1,0 +1,6 @@
+01;Konyv1;Szerzo1;Kiado1;2024;magyar;konyv;False;False
+02;Konyv2;Szerzo2;Kiado2;2024;magyar;konyv;False;False
+03;Konyv3;Szerzo3;Kiado3;2024;magyar;konyv;False;False
+04;Konyv4;Szerzo4;Kiado4;2024;magyar;konyv;True;False
+05;Konyv5;Szerzo5;Kiado5;2024;magyar;konyv;True;False
+06;Konyv6;Szerzo6;Kiado6;2024;magyar;konyv;True;False

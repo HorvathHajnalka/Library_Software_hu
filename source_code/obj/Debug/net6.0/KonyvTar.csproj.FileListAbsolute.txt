@@ -1,0 +1,68 @@
+D:\KonyvTar\obj\Debug\net6.0\KonyvTar.GeneratedMSBuildEditorConfig.editorconfig
+D:\KonyvTar\obj\Debug\net6.0\KonyvTar.AssemblyInfoInputs.cache
+D:\KonyvTar\obj\Debug\net6.0\KonyvTar.AssemblyInfo.cs
+D:\KonyvTar\obj\Debug\net6.0\KonyvTar.csproj.CoreCompileInputs.cache
+D:\KonyvTar\bin\Debug\net6.0\KonyvTar.exe
+D:\KonyvTar\bin\Debug\net6.0\KonyvTar.deps.json
+D:\KonyvTar\bin\Debug\net6.0\KonyvTar.runtimeconfig.json
+D:\KonyvTar\bin\Debug\net6.0\KonyvTar.dll
+D:\KonyvTar\bin\Debug\net6.0\KonyvTar.pdb
+D:\KonyvTar\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\KonyvTar\obj\Debug\net6.0\KonyvTar.csproj.AssemblyReference.cache
+D:\KonyvTar\obj\Debug\net6.0\KonyvTar.csproj.CopyComplete
+D:\KonyvTar\obj\Debug\net6.0\KonyvTar.dll
+D:\KonyvTar\obj\Debug\net6.0\refint\KonyvTar.dll
+D:\KonyvTar\obj\Debug\net6.0\KonyvTar.pdb
+D:\KonyvTar\obj\Debug\net6.0\KonyvTar.genruntimeconfig.cache
+D:\KonyvTar\obj\Debug\net6.0\ref\KonyvTar.dll
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\KonyvTar\bin\Debug\net6.0\KonyvTar.exe
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\KonyvTar\bin\Debug\net6.0\KonyvTar.deps.json
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\KonyvTar\bin\Debug\net6.0\KonyvTar.runtimeconfig.json
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\KonyvTar\bin\Debug\net6.0\KonyvTar.dll
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\KonyvTar\bin\Debug\net6.0\KonyvTar.pdb
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\KonyvTar\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\KonyvTar\obj\Debug\net6.0\KonyvTar.csproj.AssemblyReference.cache
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\KonyvTar\obj\Debug\net6.0\KonyvTar.GeneratedMSBuildEditorConfig.editorconfig
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\KonyvTar\obj\Debug\net6.0\KonyvTar.AssemblyInfoInputs.cache
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\KonyvTar\obj\Debug\net6.0\KonyvTar.AssemblyInfo.cs
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\KonyvTar\obj\Debug\net6.0\KonyvTar.csproj.CoreCompileInputs.cache
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\KonyvTar\obj\Debug\net6.0\KonyvTar.csproj.CopyComplete
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\KonyvTar\obj\Debug\net6.0\KonyvTar.dll
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\KonyvTar\obj\Debug\net6.0\refint\KonyvTar.dll
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\KonyvTar\obj\Debug\net6.0\KonyvTar.pdb
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\KonyvTar\obj\Debug\net6.0\KonyvTar.genruntimeconfig.cache
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\KonyvTar\obj\Debug\net6.0\ref\KonyvTar.dll
+D:\legfrisebb\KonyvTar1\KonyvTar\bin\Debug\net6.0\KonyvTar.exe
+D:\legfrisebb\KonyvTar1\KonyvTar\bin\Debug\net6.0\KonyvTar.deps.json
+D:\legfrisebb\KonyvTar1\KonyvTar\bin\Debug\net6.0\KonyvTar.runtimeconfig.json
+D:\legfrisebb\KonyvTar1\KonyvTar\bin\Debug\net6.0\KonyvTar.dll
+D:\legfrisebb\KonyvTar1\KonyvTar\bin\Debug\net6.0\KonyvTar.pdb
+D:\legfrisebb\KonyvTar1\KonyvTar\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\legfrisebb\KonyvTar1\KonyvTar\obj\Debug\net6.0\KonyvTar.csproj.AssemblyReference.cache
+D:\legfrisebb\KonyvTar1\KonyvTar\obj\Debug\net6.0\KonyvTar.GeneratedMSBuildEditorConfig.editorconfig
+D:\legfrisebb\KonyvTar1\KonyvTar\obj\Debug\net6.0\KonyvTar.AssemblyInfoInputs.cache
+D:\legfrisebb\KonyvTar1\KonyvTar\obj\Debug\net6.0\KonyvTar.AssemblyInfo.cs
+D:\legfrisebb\KonyvTar1\KonyvTar\obj\Debug\net6.0\KonyvTar.csproj.CoreCompileInputs.cache
+D:\legfrisebb\KonyvTar1\KonyvTar\obj\Debug\net6.0\KonyvTar.csproj.CopyComplete
+D:\legfrisebb\KonyvTar1\KonyvTar\obj\Debug\net6.0\KonyvTar.dll
+D:\legfrisebb\KonyvTar1\KonyvTar\obj\Debug\net6.0\refint\KonyvTar.dll
+D:\legfrisebb\KonyvTar1\KonyvTar\obj\Debug\net6.0\KonyvTar.pdb
+D:\legfrisebb\KonyvTar1\KonyvTar\obj\Debug\net6.0\KonyvTar.genruntimeconfig.cache
+D:\legfrisebb\KonyvTar1\KonyvTar\obj\Debug\net6.0\ref\KonyvTar.dll
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\legfrisebb\KonyvTar1\KonyvTar\bin\Debug\net6.0\KonyvTar.exe
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\legfrisebb\KonyvTar1\KonyvTar\bin\Debug\net6.0\KonyvTar.deps.json
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\legfrisebb\KonyvTar1\KonyvTar\bin\Debug\net6.0\KonyvTar.runtimeconfig.json
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\legfrisebb\KonyvTar1\KonyvTar\bin\Debug\net6.0\KonyvTar.dll
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\legfrisebb\KonyvTar1\KonyvTar\bin\Debug\net6.0\KonyvTar.pdb
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\legfrisebb\KonyvTar1\KonyvTar\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\legfrisebb\KonyvTar1\KonyvTar\obj\Debug\net6.0\KonyvTar.csproj.AssemblyReference.cache
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\legfrisebb\KonyvTar1\KonyvTar\obj\Debug\net6.0\KonyvTar.GeneratedMSBuildEditorConfig.editorconfig
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\legfrisebb\KonyvTar1\KonyvTar\obj\Debug\net6.0\KonyvTar.AssemblyInfoInputs.cache
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\legfrisebb\KonyvTar1\KonyvTar\obj\Debug\net6.0\KonyvTar.AssemblyInfo.cs
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\legfrisebb\KonyvTar1\KonyvTar\obj\Debug\net6.0\KonyvTar.csproj.CoreCompileInputs.cache
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\legfrisebb\KonyvTar1\KonyvTar\obj\Debug\net6.0\KonyvTar.csproj.CopyComplete
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\legfrisebb\KonyvTar1\KonyvTar\obj\Debug\net6.0\KonyvTar.dll
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\legfrisebb\KonyvTar1\KonyvTar\obj\Debug\net6.0\refint\KonyvTar.dll
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\legfrisebb\KonyvTar1\KonyvTar\obj\Debug\net6.0\KonyvTar.pdb
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\legfrisebb\KonyvTar1\KonyvTar\obj\Debug\net6.0\KonyvTar.genruntimeconfig.cache
+C:\programozás gyakorlás\III. félév\Szoftvertechnológia\legfrisebb\KonyvTar1\KonyvTar\obj\Debug\net6.0\ref\KonyvTar.dll

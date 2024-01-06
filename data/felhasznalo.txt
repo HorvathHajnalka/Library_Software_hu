@@ -1,0 +1,4 @@
+A;A1;Veszprem;06300000000;pelda@gmail.com;pw;admin;beoszt
+A2;A2;Veszprem;06300000000;pelda@gmail.com;pw;admin;beoszt
+K;K1;Veszprem;06300000000;pelda@gmail.com;pw;konyvtaros;beoszt
+K2;K2;Veszprem;06300000000;pelda@gmail.com;pw;konyvtaros;beoszt
